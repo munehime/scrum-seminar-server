@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\scrum-seminar-server.props" />
+</Project>

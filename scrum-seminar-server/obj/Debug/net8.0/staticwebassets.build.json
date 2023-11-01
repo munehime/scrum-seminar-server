@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3zowDu6CAn/jJqNSCNjedBuKXVSvgegghtDg169433Y=",
+  "Source": "scrum-seminar-server",
+  "BasePath": "_content/scrum-seminar-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
